@@ -1,5 +1,7 @@
 # AdaCompress: Adaptive compression for online computer vision services. (ACM MM 2019)
 
+[![HitCount](http://hits.dwyl.io/hosea1008/AdaCompress.svg)](http://hits.dwyl.io/hosea1008/AdaCompress)
+
 ### Hongshan Li, Yu Guo, Zhi Wang, Shutao Xia, Wenwu Zhu
 
 ~~Paper Link: [arXiv]() or [ACM MM 2019]()~~ To be updated.
