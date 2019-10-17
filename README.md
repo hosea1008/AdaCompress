@@ -4,7 +4,7 @@
 
 ### Hongshan Li, Yu Guo, Zhi Wang, Shutao Xia, Wenwu Zhu
 
-~~Paper Link: [arXiv]() or [ACM MM 2019]()~~ To be updated.
+Paper Link: [arXiv](https://arxiv.org/abs/1909.08148) or [DOI 10.1145/3343031.3350874](https://doi.org/10.1145/3343031.3350874)
 
 ## Contents
 
@@ -80,16 +80,15 @@ Structure of the codes:
 
 In case of further research related to this work, please cite the following publication:
 
+
+ACM Reference Format:
+
 ```
-@inproceedings{adacompress,
-  title={AdaCompress: Adaptive compression for online computer vision services},
-  author={Hongshan Li and Yu Guo and Zhi Wang and Shutao Xia and Wenwu Zhu},
-  booktitle={2019 ACM Multimedia Conference on Multimedia Conference},
-  year={2019},
-  organization={ACM}
-}
+Hongshan Li, Yu Guo, Zhi Wang, Shutao Xia, and Wenwu Zhu. 2019. AdaCompress: Adaptive Compression for Online Computer Vision Services. In Proceedings of the 27th ACM International Conference on Multimedia (MM ’19), October 21–25, 2019, Nice, France. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3343031.3350874
 ```
+
 
 <h2 id="Poster">Poster or slides</h2>
 
-To be updated...
+- [Poster](docs/poster.pdf)
+- [Slides](docs/slides-split.pdf)
